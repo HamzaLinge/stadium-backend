@@ -23,7 +23,3 @@ Once the server is running, you can access the application at `http://localhost:
 ## Contributing
 
 Contributions are always welcome! If you find a bug or have a suggestion for how to improve the application, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
